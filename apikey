@@ -1,0 +1,7 @@
+56036c6d700fad6d49dd310a71ef6f22
+
+
+api.openweathermap.org/data/2.5/weather?q=Pune&appid=094384fc11b3061c47b737ceeb36f36d
+
+
+http://api.openweathermap.org/data/2.5/weather?q=Pune&units=metric&appid=${process.env.APPID}
